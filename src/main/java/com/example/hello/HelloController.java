@@ -46,6 +46,5 @@ public class HelloController {
         res.add(new Hero(2,"艾克","时间不在于你拥有多少，而在于怎么使用"));
         res.add(new Hero(3,"瑞兹","灾难总是慢我一步"));
         return res;
-        //hello world
     }
 }
